@@ -10,4 +10,5 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Ansible
 - Docker &
 - Kubernetes
---practve:pux9501
+--practve:mergeconflict
+extra space
